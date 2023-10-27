@@ -7,10 +7,6 @@
     background-position: center;
 }
 
-.nav {
-    z-index: 1;
-}
-
 .cabecalho {
     background-color: var(--branco);
     display: flex;
@@ -33,6 +29,8 @@
     position: absolute;
     top: 100%;
     width: 60vw;
+    z-index: 1;
+
 }
 
 .container__botao:checked ~ .lista-menu {

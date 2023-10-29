@@ -107,5 +107,13 @@
         margin: 0 20vw 0 20vw;
         align-items: center;
     }
+
+    .swiper-pagination {
+        margin: 1em 0 ;
+    }
+
+    .swiper {
+        width: 50%;
+    }
    
 }

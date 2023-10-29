@@ -129,6 +129,10 @@
         margin-left: 3em;
     }
 
+    .descricao {
+        margin-right: 2em;
+    }
+
     .swiper-button-prev,
     .swiper-button-next {
         display: block;

@@ -52,6 +52,7 @@
     .banner__pesquisa::placeholder {
         background: url(../assets/Lupa.svg) no-repeat;
         background-position: 19em;
+    }
     
     .banner__pesquisa {
         width: 35%;
